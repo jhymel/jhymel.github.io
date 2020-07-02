@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>GaTech - John Hymel</title>
+	</head>
+	<body bgcolor="#FFFFFF">
+		<style>
+			body {font: normal 'Times New Roman', Times, serif;}
+		</style>
 
-You can use the [editor on GitHub](https://github.com/jhymel/jhymel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+		<h1>John Hymel</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<table border=0>
+		<tr>
+		<td valign=top>
+			<img src="https://vogiatzis.utk.edu/wp-content/uploads/2018/08/IMG_2707-800x800.jpg" width=200>
+		</td>
+		<td valign=top>
+		<ul>
+		<li> Graduate Student, 
+		<a href="https://chemistry.gatech.edu/">School of Chemistry and Biochemistry</a>, 
+		<a href="https://www.gatech.edu/">Georgia Institute of Technology</a>
+		
+		<li>Mailing Address: John Hymel, School of Chemistry and Biochemistry, Georgia Tech, 901 Atlantic Drive, NW., Atlanta, GA 30332
+		<li>Email: <a href=mailto:jhymel@vols.utk.edu>jhymel@vols.utk.edu</a>
+		<li>Office: TBA
+		<li>This page: <a href=http://www.google.com>put the title of the webpage here</a>
+		</ul>
+		</td>
+		<td valign=top width=150>
+		</td>
+		</tr>
+		</table>
+		
+		<p>
+		For more information (CV, nicely formatted page, etc) just check out my <a href="https://www.linkedin.com/in/john-hymel-4a2137191/" target="_blank">Linkedin.</a>.
+		</p>
+		<hr>
 
-### Markdown
+		<h2>Technical Stuff</h2>
+		
+		I am a chemistry graduate student at the Georgia Institute of Technology.
+		I recieved my B.S. in Chemistry from the
+		<a href="https://www.utk.edu/">University of Tennessee</a> in 2019,
+		where I performed research under the advisement of <a href="https://vogiatzis.utk.edu/">Dr. Konstantinos Vogiatzis</a>.
+		More recently, I participated in the Higher Education Research Experience (HERE) program 
+		at the <a href="https://www.ornl.gov/content/nanomaterials-theory-institute">Nanomaterials Theory Institute</a> 
+		at Oak Ridge National Laboratory under the direction of <a href="https://www.ornl.gov/staff-profile/bobby-g-sumpter">Dr. Bobby Sumpter</a>.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhymel/jhymel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		<p>
+		My research interests as whole fall under the umbrella of computational chemistry and electronic structure theory, but I have a specifically worked on projects involving CO<sub>2</sub> capture,
+		gas separations, and electron-beam/matter interactions, all using classical and <em>ab initio</em> molecular dynamics simulations and density functional theory.
+		</p>
+		<p>
+		The vast majority of my programming experience has involved using Python and shell scripting to automate chemical calculations in HPC environments. 
+		The heavy-lifing for these calculations being performed by software packages like 
+		<a href="http://www.psicode.org/">Psi4</a>, <a href="https://nwchemgit.github.io/">NWChem</a>, and <a href="https://www.turbomole.org/">TurboMole</a>.
+		</p>
+	</body>
+</html>
